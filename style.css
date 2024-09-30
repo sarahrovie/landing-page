@@ -143,3 +143,23 @@ ul {
     color: var(--dark-blue);
     text-align: center;
 }
+
+#quote {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--gray);
+    color: var(--dark-blue);
+    padding: 150px 200px;
+    gap: 10px;
+}
+
+#quote p {
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+#quote b {
+    align-self: flex-end;
+    font-size: 25px;
+}
