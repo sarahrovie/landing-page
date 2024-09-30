@@ -149,7 +149,7 @@ ul {
     flex-direction: column;
     background-color: var(--gray);
     color: var(--dark-blue);
-    padding: 150px 200px;
+    padding: 100px 200px;
     gap: 10px;
 }
 
@@ -163,3 +163,4 @@ ul {
     align-self: flex-end;
     font-size: 25px;
 }
+
