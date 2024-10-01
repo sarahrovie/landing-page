@@ -194,3 +194,10 @@ ul {
     border: 2px solid var(--gray);
 }
 
+footer {
+    background-color: var(--dark-blue);
+    color: var(--off-white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
